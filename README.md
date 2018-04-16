@@ -10,8 +10,9 @@ Desarrollado por Wilson Pérez Rocano, como parte de la asignatura de Tipología
 
 <h2>Resultado</h2>
 El data set creado incluye los siguientes campos:
-Fecha
+
 <UL>
+<LI>Fecha
 <LI>Evento
 <LI>Hora
 <LI>Categoría del Evento
