@@ -2,10 +2,15 @@
 
 <h1>SocialEvents NewYork</h1>
 
+<h2>Contexto/h2>
 El dataset creado consume información de nuevayork.com , este resume todos los eventos  a realizarse en la ciudad de New York. EL dataset es ideal para agendar una visita a la ciudad, útil para residentes,  viajeros y turistas. Describe información relacionada a conciertos, deportes, comedia y eventos particulares a desarrollarse en NY y NJ.
 
+<h2>Autor/h2>
+Desarrollado por Wilson Pérez Rocano, como parte de la asignatura de Tipología y ciclo de vida de los datos.
+
+<h2>Resultado/h2>
 El data set creado incluye los siguientes campos:
-•	Fecha
+Fecha
 •	Evento
 •	Hora
 •	Categoría del Evento
